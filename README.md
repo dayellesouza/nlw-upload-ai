@@ -93,7 +93,7 @@ A aplicação pode ser encontrada no caminho http://localhost:5173
 <a href="https://github.com/dayellesouza">
  <img style="border-radius: 50%;" src="https://github.com/dayellesouza.png" width="100px;" alt="Dayelle's Profile"/>
  <br />
- <sub><b>[![Linkedin Badge](https://img.shields.io/badge/-Dayelle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayellesouza/)](https://www.linkedin.com/in/dayellesouza/) </b></sub></a> 
+ <sub><b>Dayelle Souza</b></sub></a> [![Linkedin Badge](https://img.shields.io/badge/-Dayelle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayellesouza/)](https://www.linkedin.com/in/dayellesouza/)
 
 
 Feito com 💜 por Dayelle Souza
